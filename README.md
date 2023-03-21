@@ -1,9 +1,14 @@
 # Programacion2
 
+## Tareas del curso
+  - [Analisis de algoritmos](#analisis-de-algoritmos)
+  - [TAD](#tad)
+  - [Grafos](#grafos)
+
 ## Lista de proyectos
 
-## Tareas del curso
+
 
 ### Analisis de algoritmos
-### TDA
+### TAD
 ### Grafos
